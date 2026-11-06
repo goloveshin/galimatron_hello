@@ -1,0 +1,13 @@
+root aggregate hello
+{
+    versions
+    {
+        0;
+    }
+}
+
+version 0
+{
+    counter = { "0" };
+    greetings = { };
+}

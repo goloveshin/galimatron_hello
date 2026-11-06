@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code:template xmlns:code="galimatron-code-generation">
+<html>
+<head>
+<title>Galimatron</title>
+</head>
+<body>
+<p>Counter: <code:counter/></p>
+<p><code:greetings/></p>
+</body>
+</html>
+</code:template>
