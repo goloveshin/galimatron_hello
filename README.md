@@ -1,6 +1,6 @@
 # galimatron_hello
 
-A minimal GaL project. Open `gal.cfg` and run Galimatron to check that the editor extension and the executable are installed.
+A minimal GaL project for [Galimatron](https://github.com/goloveshin/galimatron). Open `gal.cfg` and run Galimatron to check that the editor extension and the executable are installed.
 
 `page.xsl` includes `gal-functions.xsl` by `https://github.com/goloveshin/galimatron/xslt/gal-functions.xsl` and reads the tags with `gal:tagvalue`. An installed Galimatron maps that address to `share/galimatron/xslt/gal-functions.xsl`.
 
